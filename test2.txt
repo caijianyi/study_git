@@ -6,4 +6,4 @@ iiiii
 add mmmmm
 sss
 
-add master redblue
+add master redbluemaster
